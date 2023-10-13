@@ -6,7 +6,8 @@ And I'm also looking for an apprenticeship.
 
 Feel free to check any file from this GitHub, and to try out the games if you find any interesting ones !
 
-<a href="https://github.com/Pyroheart/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyroheart&layout=compact&theme=buefy&hide_border=true" /></a>
+<a href="https://github.com/Pyroheart/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pyroheart&layout=compact&theme=buefy&hide_border=true" /></a>
+
 
 ![](https://komarev.com/ghpvc/?username=Pyroheart)
 
