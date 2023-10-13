@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently working on little JS games in my free time, and even tho I do use and wish to learn even more other programming langugages I have more interest in JavaScript at the moment.
+
+And I'm also looking for an apprenticeship.
+
+Feel free to check any file from this GitHub, and to try out the games if you find ny interesting ones !
 <!--
 **Pyroheart/Pyroheart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
