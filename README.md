@@ -7,12 +7,13 @@ And I'm also looking for an apprenticeship.
 Feel free to check any file from this GitHub, and to try out the games if you find any interesting ones !
 
 
+
+
+<!--
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![LinkedIn][linkedin-shield]][in/samuel-alleaume-04aa85258]
-
-<!--
 [![Contributors][contributors-shield]][contributors-url]
 [![MIT License][license-shield]][license-url]
 
